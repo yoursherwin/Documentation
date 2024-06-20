@@ -20,7 +20,10 @@ The cells may end up in the danger zone for one of two reasons:
 The main objectives in testing the battery board are to verify that the battery protection network and voltage regulation are functioning properly. Follow these steps:
 
 1. **Insert Batteries into the Holders**
-    - Insert batteries into the battery holders on the bottom side of the board, starting on the right and moving towards the left. Follow the posted polarity on the board.
+    - Insert batteries into the battery holders on the bottom side of the board, starting on the right and moving towards the left. Follow the posted polarity on the board. **Don't follow + or - symbols on the brackets. Reffer to Figure 7.1** 
+Figure 7.1 - Symbols to refer to
+
+![Figure 7.1](images/Bracket.jpeg)
 
 2. **Check Battery Connection**
     - Flip the board over and observe the various test points.
