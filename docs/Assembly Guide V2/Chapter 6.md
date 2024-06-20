@@ -3,15 +3,26 @@
 1. **Cataloging Parts**
    a. **The Structure**
       i. Measure the dimensions of each half of the anodized Main “U” structure and label them. Use calipers to measure the width of each of the two sheet metal halves.
-      ii. ![Figure 6.1](images/measure.png) Figure 6.1 shows an example measurement of the width using calipers, as well as other dimensions of the structure. These additional measurements are useful for verifying that your satellite will fit inside a launch vehicle pod after integration is complete and to ensure no damage has occurred during shipping.
+      ii. ![Figure 6.1](images/measure1.png) Figure 6.1
+       shows an example measurement of the width using calipers, as well as other dimensions of the structure. These additional measurements are useful for verifying that your satellite will fit inside a launch vehicle pod after integration is complete and to ensure no damage has occurred during shipping.
+
+| Side # | Width (mm) | Height (mm) |
+| ----------- | ----------- | ----------- |
+| S1 | 100.35 | 113.08
+| S2| 100.05 | 113.04
+| S3 | 100.47 | 113.06
+| S4 | 100.14 | 113.14
+| S5 | 100.39 | 113.05
+| S6 | 99.67 | 113.03
+| S7 | 100.59 | 113.02
+| S8 | 100.29 | 113.10
       
-!!! warning 
-      Make sure not to bend the U-shape inwards when measuring, as this will ruin the measurement. Take the measurement as close to the “closed” side of the U as possible.
+!!!warning 
+   Make sure not to bend the U-shape inwards when measuring, as this will ruin the measurement. Take the measurement as close to the “closed” side of the U as possible.
 
-   <p align="center">Figure 6.1: Example measurements of Main “U” structure.</p>
 
-!!! note
-      If you are planning on flying your satellite and have more than two Main “U” structure halves, record and identify which structures are optimal for flight. The structures should come in at about 99.77mm nominally, but they will vary depending on the bends and the anodizing.
+!!!note
+ If you are planning on flying your satellite and have more than two Main “U” structure halves, record and identify which structures are optimal for flight. The structures should come in at about 99.77mm nominally, but they will vary depending on the bends and the anodizing.
 
 2. **Checking out the PEM-Nuts**
    a. The structure and brackets all contain PEM-Nuts. Figure 6.2 identifies all the locations for the PEM-Nuts.
