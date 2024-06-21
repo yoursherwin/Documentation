@@ -3,7 +3,7 @@
 The main goal of testing the Flight Computer is ensuring that the board receives power and that the board is loaded with the correct firmware. Follow these steps to test the Flight Computer:
 
 1. **Solder JP1 on the Flight Computer**
-    - Located near the 12 pin FC Direct Control pico molex header, look for the JP1 footprint. Then proceed to solder the two connections together. 
+    - Located near the 12 pin FC Direct Control pico molex header, look for the JP1 footprint. Then proceed to solder the two connections together. This is 
 
 2. **Plug in the Micro USB**
     - Plug in the Micro USB end into the Flight Computer board and plug the USB-A end into a computer.
