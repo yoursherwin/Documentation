@@ -4,6 +4,7 @@
    a. **The Structure**
       i. Measure the dimensions of each half of the anodized Main “U” structure and label them. Use calipers to measure the width of each of the two sheet metal halves.
       ii. ![Figure 6.1](images/measure1.png) Figure 6.1
+      
        shows an example measurement of the width using calipers, as well as other dimensions of the structure. These additional measurements are useful for verifying that your satellite will fit inside a launch vehicle pod after integration is complete and to ensure no damage has occurred during shipping.
 
 | Side # | Width (mm) | Height (mm) |

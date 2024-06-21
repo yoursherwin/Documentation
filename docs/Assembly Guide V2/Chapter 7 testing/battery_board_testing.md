@@ -25,6 +25,7 @@ Figure 7.1 - Symbols to refer to
 
 ![Figure 7.1](images/Bracket.jpeg)
 
+![Figure 7.2](images/Battery.jpeg)
 2. **Check Battery Connection**
     - Flip the board over and observe the various test points.
     - Use a voltmeter to test the pack voltage. Place the positive probe into the PACK+ test point and the negative probe into the B- test point. The voltage should be greater than 6V.
