@@ -23,9 +23,12 @@ The main objectives in testing the battery board are to verify that the battery 
     - Insert batteries into the battery holders on the bottom side of the board, starting on the right and moving towards the left. Follow the posted polarity on the board. **Don't follow + or - symbols on the brackets. Reffer to Figure 7.1** 
 Figure 7.1 - Symbols to refer to
 
+Figure 7.2- Shows how the board should look with the batteries in
+
 ![Figure 7.1](images/Bracket.jpeg)
 
 ![Figure 7.2](images/Battery.jpeg)
+
 2. **Check Battery Connection**
     - Flip the board over and observe the various test points.
     - Use a voltmeter to test the pack voltage. Place the positive probe into the PACK+ test point and the negative probe into the B- test point. The voltage should be greater than 6V.
